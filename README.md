@@ -17,22 +17,22 @@
 <img alt="Oracle" src ="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white" />
 <br/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-<br/><br/>
+<br/><br/><br/><br/>
 <h3 align="center"> 💡 Project 💡
 <br/><br/><br/>
 <table align="center">
 	<th>NAME</th>
 	<th>FROM</th>
 	<tr>
-            <td><a href="#"><h5>Daily Moments</a></td>
-	    <td><h5>한국소프트웨어산업협회</td>
-	</tr>
-	<tr>
-	    <td><a href="#"><h5>HaeChukGal</a></td>
+	    <td><a href="https://github.com/jinwooooooo/HaeChukGal"><h5>HaeChukGal</a></td>
 	    <td><h5>Metanet DT 인턴</td>
 	</tr>
+	<tr>
+            <td><a href="https://github.com/jinwooooooo/DAILY-MOMENTS"><h5>DAILY-MOMENTS</a></td>
+	    <td><h5>한국소프트웨어산업협회</td>
+	</tr>
   <tr>
-	    <td><a href="#"><h5>바이하트</a></td>
+	    <td><a href="https://github.com/GGEZ09/BiHeart"><h5>BiHeart</a></td>
 	    <td><h5>인천대학교 졸업작품</td>
 	</tr>
 </table>
