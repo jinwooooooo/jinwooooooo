@@ -1,6 +1,6 @@
 <p align="center"><image src="https://user-images.githubusercontent.com/54875278/111621892-da28a480-882b-11eb-9ba8-4d5f6c89820c.jpg" width="100%" height="70%">
 <br/><br/>
-⚒️ **Tech Stack** ⚒️
+⚒️ **Tech** **Stack** ⚒️
 <br/><br/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
