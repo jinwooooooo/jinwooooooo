@@ -20,11 +20,20 @@
 <br/><br/>
 <h3 align="center"> 💡 Project 💡
 <br/><br/><br/>
-
-| NAME | FROM | 
-|:---------:|:---------:|
-| <h5>[Daily Moments]() | <h5>한국소프트웨어산업협회  |
-| <h5>[HaeChukGal]() | <h5>Metanet DT 인턴 |
-| <h5>[바이하트]() | <h5>인천대학교 졸업작품 |
-
+<table border="1">
+	<th>NAME</th>
+	<th>FROM</th>
+	<tr>
+      <td><a href="#">Daily Moments</a></td>
+	    <td>한국소프트웨어산업협회</td>
+	</tr>
+	<tr>
+	    <td>[HaeChukGal]()</td>
+	    <td>Metanet DT 인턴</td>
+	</tr>
+  <tr>
+	    <td>[바이하트]()</td>
+	    <td>인천대학교 졸업작품</td>
+	</tr>
+</table>
 <br/><br/>
