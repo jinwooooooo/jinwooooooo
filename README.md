@@ -1,4 +1,4 @@
-<p align="center"><image src="https://user-images.githubusercontent.com/54875278/111311114-2c898a00-86a1-11eb-91fb-9c64860bcfcc.jpg" width="70%" height="70%">
+<p align="center"><image src="https://user-images.githubusercontent.com/54875278/111621892-da28a480-882b-11eb-9ba8-4d5f6c89820c.jpg" width="100%" height="70%">
 <br/><br/>
 ⚒️ Tech Stack ⚒️
 <br/><br/>
