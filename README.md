@@ -20,11 +20,11 @@
 <br/><br/>
 <h3 align="center"> 💡 Project 💡
 <br/><br/><br/>
-<table border="1">
+<table>
 	<th>NAME</th>
 	<th>FROM</th>
 	<tr>
-      <td><a href="#">Daily Moments</a></td>
+            <td><a href="#"><h5>Daily Moments</a></td>
 	    <td>한국소프트웨어산업협회</td>
 	</tr>
 	<tr>
