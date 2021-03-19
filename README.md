@@ -37,5 +37,7 @@
 	</tr>
 </table>
 <br/><br/>
+<h3 align="center"> 📌 Github Stats 📌
+<br/><br/><br/>
 
-![ ](https://github-readme-stats.vercel.app/api?username=jinwooooooo&show_icons=true)
+![jinwooooooo's github stats](https://github-readme-stats.vercel.app/api?username=jinwooooooo&show_icons=true)
