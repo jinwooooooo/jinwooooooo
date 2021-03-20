@@ -18,6 +18,7 @@
 <br/>
 <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 <br/><br/><br/><br/>
+
 <h3 align="center"> 💡 Project 💡
 <br/><br/><br/>
 <table align="center">
@@ -37,6 +38,7 @@
 	</tr>
 </table>
 <br/><br/>
+	
 <h3 align="center"> 📌 Github Stats 📌
 <br/><br/><br/>
 
