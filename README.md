@@ -9,15 +9,15 @@
 	<th>FROM</th>
 	<tr>
 	    <td><a href="https://github.com/Lotte-Danuri">LuxON</a></td>
-	    <td><h5 style="margin-bottom: 20px;">롯데이커머스 교육생</h5></td>
+	    <td>롯데이커머스 교육생</td>
 	</tr>
 	<tr>
 	    <td><a href="https://github.com/jinwooooooo/HaeChukGal">HaeChukGal</a></td>
-	    <td><h5>Metanet DT 인턴</td>
+	    <td>Metanet DT 인턴</td>
 	</tr>
 	<tr>
             <td><a href="https://github.com/jinwooooooo/DAILY-MOMENTS">DAILY-MOMENTS</a></td>
-	    <td><h5>한국소프트웨어산업협회</td>
+	    <td>한국소프트웨어산업협회</td>
 	</tr>
 </table>
 <br/><br/>
